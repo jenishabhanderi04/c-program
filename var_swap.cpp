@@ -6,7 +6,7 @@ int main() {
     cout << "enter the variable a =";
     cin >> a;
     cout << "enter the variable b =";
-    cin >> b;k
+    cin >> b;
     
     a = a+b;
     b = a-b;
