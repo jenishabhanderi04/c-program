@@ -8,7 +8,7 @@ int t;
 cout << "enter the number = ";
 cin>>n;
 
-for( i = 1 ; i <= 10 ; i++)a
+for( i = 1 ; i <= 10 ; i++)
 {
     
     t = n * i; 
