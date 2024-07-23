@@ -24,6 +24,7 @@ int main() {
     if(search == arr[j])
     {
         flag = 1;
+        break;
     }
     else
     {
